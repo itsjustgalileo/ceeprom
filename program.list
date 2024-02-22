@@ -1,0 +1,9 @@
+a9 15    ; LDA #15
+ea       ; NOP
+ea       ; NOP
+ea       ; NOP
+8d 2002  ; STA $2002
+ea       ; NOP
+ea       ; NOP
+a9 21    ; LDA #21
+8d fe    ; STA $FE
