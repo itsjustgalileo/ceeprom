@@ -2,7 +2,7 @@
 
 ---
 
-[text](ceeprom.webp)
+![text](ceeprom.webp)
 
 ---
 
